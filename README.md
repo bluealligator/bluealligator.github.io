@@ -1,2 +1,1 @@
-# bluealligator.github.io
-Learning Things
+# bluealligator
